@@ -1,5 +1,7 @@
+Note: Open in Code view.
+
 Spec: [Browser: Firefox Developer Edition;  Platform: Linux 64-bit; Language: English (US); Link: <https://download.mozilla.org/?product=firefox-devedition-latest-ssl&os=linux64&lang=en-US>]
-Check link: <https://www.mozilla.org/en-US/firefox/all/desktop-developer/linux64/en-US/>
+Check link Linux path: <https://www.mozilla.org/en-US/firefox/all/desktop-developer/linux64/en-US/>
 Tested on: Ubuntu Desktop 24.04
 ---------------------------------------------------------------------------
 # "Install" the app
