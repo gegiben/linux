@@ -17,14 +17,18 @@ Tested on: Ubuntu Desktop 24.04
     a) vi Firefox-dev.desktop
     b) #Copy-and-paste:
 [Desktop Entry]
+[Desktop Entry]
+Version=1.0
 Name=Firefox-developer-edition
+GenericName=Web Browser
 Exec=/usr/local/bin/firefox-dev
 Icon=/opt/firefox/browser/chrome/icons/default/default128.png
-comment=browser
+Comment=Access the Internet
 Type=Application
 Terminal=false
 Encoding=UTF-8
-Categories=Utility;
+Categories=Network;WebBrowser;
+MimeType=application/pdf;application/rdf+xml;application/rss+xml;application/xhtml+xml;application/xhtml_xml;application/xml;image/gif;image/jpeg;image/png;image/webp;text/html;text/xml;x-scheme-handler/http;x-scheme-handler/https;
 
 6. Copy to "Show Apps"
     sudo cp Firefox-dev.desktop /usr/share/applications/
