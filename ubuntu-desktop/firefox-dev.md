@@ -40,3 +40,10 @@ sudo rm -r /opt/firefox/
 sudo rm /usr/local/bin/firefox-dev
 sudo rm /usr/share/applications/Firefox-dev.desktop
 rm ~/Desktop/Firefox-dev.desktop
+---------------------------------------------------------------------------
+# vi guide
+If you don’t know how to use vi editor :
+1. press “i” to enter insert mode
+2. copy-paste (ctrl +c / ctrl+v) the lines
+3. press “esc” to move out of insert mode.
+4. now type “:wq” and press enter key to save and exit.
