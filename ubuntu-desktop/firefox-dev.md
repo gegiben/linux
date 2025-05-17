@@ -33,13 +33,15 @@ Categories=Utility;
 # How to Update
 1. Do not download from browser
 2. Just follow the Step 1 and 2 on #"Install"
+   
 ---------------------------------------------------------------------------
 # How to Remove
 Terminal (no sudo su):
-sudo rm -r /opt/firefox/
-sudo rm /usr/local/bin/firefox-dev
-sudo rm /usr/share/applications/Firefox-dev.desktop
-rm ~/Desktop/Firefox-dev.desktop
+1. sudo rm -r /opt/firefox/
+2. sudo rm /usr/local/bin/firefox-dev
+3. sudo rm /usr/share/applications/Firefox-dev.desktop
+4. rm ~/Desktop/Firefox-dev.desktop
+
 ---------------------------------------------------------------------------
 # vi guide
 If you don’t know how to use vi editor :
