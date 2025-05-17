@@ -6,7 +6,7 @@ Tested on: Ubuntu Desktop 24.04
 1. Terminal: 
     cd ~Downloads
 2. Download and unpack:
-    wget "https://download.mozilla.org/?product=firefox-devedition-latest-ssl&os=linux64&lang=en-US" -O Firefox-dev.tar.bz2
+    wget "https://download.mozilla.org/?product=firefox-devedition-latest-ssl&os=linux64&lang=en-US" -O Firefox-dev.tar.bzip2
     sudo tar xjf Firefox-dev.tar.bz2 -C /opt/
     [Optional] rm -r Firefox-dev.tar.bz2
 3. Create symlink to make it executable in Terminal
